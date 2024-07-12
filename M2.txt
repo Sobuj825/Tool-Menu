@@ -1,1 +1,1 @@
-
+[FBAN/FB4A;FBAV/256.0.0.39.117;FBBV/196542500;FBDM/{density=2.0,width=720,height=1371};FBLC/en_US;FBRV/198223028;FBCR/Metro by T-Mobile;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/moto g(7) power;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]

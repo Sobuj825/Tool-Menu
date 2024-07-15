@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/420.0.0.32.61;FBBV/443010639;FBDM/{density=1.75,width=720,height=1612};FBLC/en_US;FBRV/443010639;FBCR/Banglalink;FBMF/itel;FBBD/itel;FBPN/com.facebook.katana;FBDV/S667LN;FBSV/13;FBOP/19;FBCA/arm64-v8a:;]
+FBAN/EMA;FBAV/310.0.0.79.11;FBBV/208694466;FBRV/0;FBPN/com.facebook.lite;FBLC/ca_ES;FBMF/Jio;FBBD/Jio;FBDV/Lava Agni 2 5G;FBSV/13;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
